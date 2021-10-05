@@ -21,6 +21,7 @@
 ---
 
 <손글씨>
+
 1. Decision Tree 모델
 <img width="475" alt="손글씨1" src="https://user-images.githubusercontent.com/53444206/136044739-c906a083-6a9f-4120-869f-3b888e7fea12.png">
 2. Random Forest 모델
@@ -31,7 +32,9 @@
 <img width="488" alt="손글씨4" src="https://user-images.githubusercontent.com/53444206/136045919-7839034e-b80c-4b81-8bf0-c27462e7ac7a.png">
 5. Logistic Regression 모델
 <img width="487" alt="손글씨5" src="https://user-images.githubusercontent.com/53444206/136045937-97bbae04-fcd2-431d-809a-b2fd6bc82457.png">
+
 <와인>
+
 1. Decision Tree 모델
 <img width="498" alt="와인1" src="https://user-images.githubusercontent.com/53444206/136045969-a41a4fff-1434-4996-93cd-34951313b116.png">
 2. Random Forest 모델
@@ -42,7 +45,9 @@
 <img width="482" alt="와인4" src="https://user-images.githubusercontent.com/53444206/136046011-bbc19af8-ae6e-4214-9e23-5b68c62b123e.png">
 5. Logistic Regression 모델
 <img width="489" alt="와인5" src="https://user-images.githubusercontent.com/53444206/136046031-854189fc-c052-4d94-98d7-0f5f28c7650e.png">
+
 <유방암>
+
 1. Decision Tree 모델
 <img width="475" alt="유방암1" src="https://user-images.githubusercontent.com/53444206/136046049-5a7cf6bb-c00d-4f01-b2bd-164bb1ed9aba.png">
 2. Random Forest 모델
